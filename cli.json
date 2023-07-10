@@ -1,0 +1,12 @@
+{
+    "version": "1.10.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/platformplane/cli/releases/download/v1.10.1/cli_1.10.1_windows_amd64.tar.gz",
+            "bin": [
+                "console.exe"
+            ],
+            "hash": "ebe632554ba2dd81aeb0b779189b753d1886fc16863de50e3d5dbc3697e39e19"
+        }
+    }
+}
