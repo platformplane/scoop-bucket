@@ -1,19 +1,19 @@
 {
-    "version": "1.15.1",
+    "version": "1.15.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/platformplane/console/releases/download/v1.15.1/console_1.15.1_windows_amd64.tar.gz",
+            "url": "https://github.com/platformplane/console/releases/download/v1.15.2/console_1.15.2_windows_amd64.tar.gz",
             "bin": [
                 "console.exe"
             ],
-            "hash": "ad669b4be43e70af50dc9714da8d02a20e307fcad73bc3dae5743b7e1db09ebe"
+            "hash": "a715ec869bc7d6c48b6ed9a45dccb27570697c148d02540dc65f46a80172c9a8"
         },
         "arm64": {
-            "url": "https://github.com/platformplane/console/releases/download/v1.15.1/console_1.15.1_windows_arm64.tar.gz",
+            "url": "https://github.com/platformplane/console/releases/download/v1.15.2/console_1.15.2_windows_arm64.tar.gz",
             "bin": [
                 "console.exe"
             ],
-            "hash": "9761c0f224ff36ed99056d7cce866d58eed63913e5c2c07a55d42443b1c2e9d6"
+            "hash": "6ef08f52f88c26d245206cd5cb2974bf08cbe86a6bceea7c746508c426caf936"
         }
     }
 }
