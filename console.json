@@ -6,14 +6,14 @@
             "bin": [
                 "console.exe"
             ],
-            "hash": "e1187eeb236974594192b3a70fbbfd21387f5323a41c169201fc437f1b24d709"
+            "hash": "15cd0c0fc330329415f28168410047835f6df5c1671dfe38f75ac0ee01b82986"
         },
         "arm64": {
             "url": "https://github.com/platformplane/console/releases/download/v1.20.4/console_1.20.4_windows_arm64.tar.gz",
             "bin": [
                 "console.exe"
             ],
-            "hash": "cbbf810dd7db1a646e1a4380843d4ffa058ef8eefadc60839c6821e63ca910cb"
+            "hash": "d5878739842f5acd10d29887279d0a925e4e4caf4585aae03921cafb78b5c2fa"
         }
     }
 }
